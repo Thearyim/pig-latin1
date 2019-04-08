@@ -1,6 +1,6 @@
-# _Count Up By_
+# _Pig Latin_
 
-#### _Count Up By 01/16/2019_
+#### _pig-latin 01/16/2019_
 
 #### By _**Theary Im and Clara Munro**_
 
@@ -15,7 +15,7 @@
 
 ## Support and contact details
 
-_Feel free to use this code, contact epicodus_
+_Theary Im: thearyim@gmail.com_
 
 ## Technologies Used
 
